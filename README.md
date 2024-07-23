@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kevin-Wangere
-- 👀 I’m interested in becoming a Data Analyst
-- 🌱 I’m currently learning the Google Data Analytics Professional Certificate
+- 👋 Hi, I’m @ Kevin-Wangere
+- 👀 I am Data Analyst
+- 🌱 I’m have recently passed a L4 Data Analyst
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
